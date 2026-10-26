@@ -10,6 +10,7 @@ author: Vladimir Novikov
 date: 2026-05-16
 tags:
     - attack.privilege-escalation
+    - attack.persistence
     - attack.t1098.003
 logsource:
     product: aws
